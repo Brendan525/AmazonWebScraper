@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webScraper", "webScraper\webScraper.csproj", "{B95FA30E-946E-420B-8D2C-F2CB22D535DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95FA30E-946E-420B-8D2C-F2CB22D535DC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B95FA30E-946E-420B-8D2C-F2CB22D535DC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B95FA30E-946E-420B-8D2C-F2CB22D535DC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B95FA30E-946E-420B-8D2C-F2CB22D535DC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

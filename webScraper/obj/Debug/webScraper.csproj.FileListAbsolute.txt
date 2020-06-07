@@ -1,0 +1,12 @@
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/bin/Debug/webScraper.exe
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/bin/Debug/webScraper.pdb
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/bin/Debug/HtmlAgilityPack.dll
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/bin/Debug/HtmlAgilityPack.pdb
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/bin/Debug/HtmlAgilityPack.xml
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/obj/Debug/webScraper.csproj.CoreCompileInputs.cache
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/obj/Debug/webScraper.csproj.CopyComplete
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/obj/Debug/webScraper.exe
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/obj/Debug/webScraper.pdb
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/obj/Debug/webScraper.csprojAssemblyReference.cache
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/bin/Debug/webScraper.exe.config
+/Users/Brendan/Desktop/C#Projects/webScraper/webScraper/obj/Debug/webScraper.exe.config
